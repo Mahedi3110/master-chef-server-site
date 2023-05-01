@@ -18,7 +18,7 @@ app.get('/allChef', (req, res) => {
 
 app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
-    const chef = allChefs.find(data => data._id == id)
+    const chef = allChef.find(data => data._id == id)
     res.send(chef)
 })
 
@@ -26,7 +26,7 @@ app.get('/food/:id', (req, res) => {
     const chefData = []
     const allFood = []
     const id = req.params.id;
-    allChefs.map(chef => chefData.push(chef._bestFood))
+    allChef.map(chef => chefData.push(chef._bestFood))
     chefData[0].map(food => allFood.push(food))
     chefData[1].map(food => allFood.push(food))
     chefData[2].map(food => allFood.push(food))
@@ -36,7 +36,6 @@ app.get('/food/:id', (req, res) => {
     chefData[6].map(food => allFood.push(food))
     chefData[7].map(food => allFood.push(food))
     chefData[8].map(food => allFood.push(food))
-    // const filtered = allChefs.map(chef => chef._bestFood.find(data => data.id == id))
     const findData = allFood.find(data => data.id == id)
     res.send(findData)
 })
