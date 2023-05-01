@@ -1,0 +1,109 @@
+[
+    {
+        "id": "FOOD19",
+        "name": "Spaghetti Carbonara",
+        "description": "A classic pasta dish with creamy bacon and egg sauce.",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "recipe": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook bacon until crispy. 3. Beat eggs and mix in grated parmesan cheese. 4. Add minced garlic to the pan with the bacon and cook for a minute. 5. Add cooked spaghetti to the pan with the bacon and garlic. 6. Turn off the heat and pour the egg and cheese mixture into the pan. 7. Stir until the sauce thickens and coats the pasta. 8. Serve with additional grated parmesan cheese.",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD20",
+        "name": "Chicken Tikka",
+        "description": "A creamy and spicy Indian chicken dish.",
+        "ingredients": [
+            "chicken breast",
+            "yogurt",
+            "tomato paste",
+            "garam masala",
+            "ginger",
+            "garlic"
+        ],
+        "recipe": "1. Marinate chicken breast in yogurt, garam masala, ginger, and garlic for at least an hour. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions until translucent. 4. Add tomato paste and additional garam masala to the pan and cook for a minute. 5. Add the cooked chicken to the pan and stir to coat with the sauce. 6. Pour in heavy cream and simmer until the sauce thickens. 7. Serve with rice and naan bread.",
+        "ratings": 4.7,
+        "price": 14.99,
+        "photo": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD21",
+        "name": "Grilled Salmon",
+        "description": "A healthy and flavorful seafood dish, perfect for summer grilling.",
+        "ingredients": [
+            "salmon fillets",
+            "lemon",
+            "olive oil",
+            "garlic",
+            "salt",
+            "pepper"
+        ],
+        "recipe": "1. Preheat grill to medium-high heat. 2. Pat salmon fillets dry with a paper towel and season with salt and pepper. 3. In a small bowl, mix together olive oil, minced garlic, and the juice of one lemon. 4. Brush the mixture over the salmon fillets. 5. Place the salmon fillets on the grill skin-side down and grill for 5-6 minutes. 6. Carefully flip the salmon over and grill for an additional 2-3 minutes, or until the salmon is cooked through. 7. Serve with additional lemon wedges.",
+        "ratings": 4.6,
+        "price": 18.99,
+        "photo": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD22",
+        "name": "Caprese Salad",
+        "description": "A classic Italian salad featuring fresh mozzarella, ripe tomatoes, and fragrant basil.",
+        "ingredients": [
+            "fresh mozzarella",
+            "ripe tomatoes",
+            "fresh basil",
+            "balsamic vinegar",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "recipe": "1. Slice fresh mozzarella and ripe tomatoes into 1/4 inch thick slices. 2. Arrange the mozzarella and tomatoes on a plate, alternating between the two. 3. Drizzle balsamic vinegar and olive oil over the top of the salad. 4. Season with salt and pepper to taste. 5. Garnish with fresh basil leaves. 6. Serve chilled.",
+        "ratings": 4.4,
+        "price": 10.99,
+        "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD23",
+        "name": "Chicken Parmesan",
+        "description": "A classic Italian dish featuring breaded chicken cutlets, tomato sauce, and melted cheese.",
+        "ingredients": [
+            "chicken breast",
+            "breadcrumbs",
+            "parmesan cheese",
+            "tomato sauce",
+            "mozzarella cheese",
+            "olive oil"
+        ],
+        "recipe": "1. Preheat oven to 400°F. 2. Bread chicken cutlets by coating them in breadcrumbs mixed with grated parmesan cheese. 3. In a separate pan, heat up tomato sauce. 4. In a large skillet, heat up olive oil over medium heat. 5. Add breaded chicken cutlets and cook until golden brown on both sides. 6. Place the chicken cutlets in a baking dish and pour the heated tomato sauce over them. 7. Sprinkle shredded mozzarella cheese over the top. 8. Bake in the oven for 15-20 minutes, or until the cheese is melted and bubbly. 9. Serve with your favorite pasta.",
+        "ratings": 4.7,
+        "price": 14.99,
+        "photo": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD24",
+        "name": "Beef Burgers",
+        "description": "Juicy and flavorful beef burgers, perfect for summer grilling.",
+        "ingredients": [
+            "ground beef",
+            "onion",
+            "garlic",
+            "salt",
+            "pepper",
+            "hamburger buns",
+            "lettuce",
+            "tomato",
+            "pickles",
+            "ketchup",
+            "mustard"
+        ],
+        "recipe": "1. In a large bowl, mix together ground beef, finely chopped onion, minced garlic, salt, and pepper. 2. Form the mixture into patties. 3. Preheat grill to medium-high heat. 4. Grill the patties for 3-4 minutes on each side, or until they reach your desired level of doneness. 5. Toast the hamburger buns on the grill. 6. Assemble the burgers by placing a lettuce leaf, tomato slice, and pickle slices on the bottom bun. 7. Add the cooked beef patty on top. 8. Add ketchup and mustard as desired. 9. Serve hot.",
+        "ratings": 4.9,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "id": "FOOD49",
+        "name": "Mutton Akhni",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1542528180-a1208c5169a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE3fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD50",
+        "name": "Fish Sushi",
+        "description": "A Japanese dish of vinegar rice topped with seafood or vegetables",
+        "ingredients": [
+            "Sushi rice",
+            "Seafood or vegetables",
+            "Nori seaweed"
+        ],
+        "recipe": "Cook the sushi rice, roll the rice and seafood/vegetables in Nori seaweed, and slice into bite-sized pieces",
+        "ratings": 4.8,
+        "price": 20.99,
+        "photo": "https://plus.unsplash.com/premium_photo-1668618296300-e301f8d2cef9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE1fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD51",
+        "name": "Lasagna",
+        "description": "An Italian dish of layered pasta, meat, cheese, and tomato sauce",
+        "ingredients": [
+            "Lasagna noodles",
+            "Ground beef",
+            "Tomato sauce",
+            "Ricotta cheese",
+            "Mozzarella cheese"
+        ],
+        "recipe": "Cook the noodles, sauté the ground beef with tomato sauce, layer the noodles, meat sauce, and cheeses in a baking dish, and bake in the oven until bubbly",
+        "ratings": 4.6,
+        "price": 14.99,
+        "photo": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD52",
+        "name": "Chicken Lasagna",
+        "description": "An Italian dish of layered pasta, meat, cheese, and tomato sauce",
+        "ingredients": [
+            "Lasagna noodles",
+            "Ground beef",
+            "Tomato sauce",
+            "Ricotta cheese",
+            "Mozzarella cheese"
+        ],
+        "recipe": "Cook the noodles, sauté the ground beef with tomato sauce, layer the noodles, meat sauce, and cheeses in a baking dish, and bake in the oven until bubbly",
+        "ratings": 4.6,
+        "price": 14.99,
+        "photo": "https://images.unsplash.com/photo-1590691105234-1501411df02e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE4fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD53",
+        "name": "Beef Lasagna",
+        "description": "An Italian dish of layered pasta, meat, cheese, and tomato sauce",
+        "ingredients": [
+            "Lasagna noodles",
+            "Ground beef",
+            "Tomato sauce",
+            "Ricotta cheese",
+            "Mozzarella cheese"
+        ],
+        "recipe": "Cook the noodles, sauté the ground beef with tomato sauce, layer the noodles, meat sauce, and cheeses in a baking dish, and bake in the oven until bubbly",
+        "ratings": 4.6,
+        "price": 14.99,
+        "photo": "https://images.unsplash.com/photo-1576749872435-ff88a71c1ae2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIyfHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD54",
+        "name": "Mutton Lasagna",
+        "description": "An Italian dish of layered pasta, meat, cheese, and tomato sauce",
+        "ingredients": [
+            "Lasagna noodles",
+            "Ground beef",
+            "Tomato sauce",
+            "Ricotta cheese",
+            "Mozzarella cheese"
+        ],
+        "recipe": "Cook the noodles, sauté the ground beef with tomato sauce, layer the noodles, meat sauce, and cheeses in a baking dish, and bake in the oven until bubbly",
+        "ratings": 4.6,
+        "price": 14.99,
+        "photo": "https://images.unsplash.com/photo-1581331474665-a0bbee7dfba9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI2fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id": "FOOD43",
+        "name": "Mutton Teheri",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD44",
+        "name": "Morog Polau",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1582391123232-6130296f1fcd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD45",
+        "name": "Kabli Polau",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1598511756348-640384c52ada?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD46",
+        "name": "Mutton Polau",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1565280654386-36c3ea205191?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD47",
+        "name": "Chicken Akhni",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1585903211716-c5633c87554d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE0fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD48",
+        "name": "Beef Akhni",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1561560743-70784246fef2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEzfHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

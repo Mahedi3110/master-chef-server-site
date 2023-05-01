@@ -1,0 +1,128 @@
+[
+    {
+        "id": "FOOD25",
+        "name": "Chicken Burgers",
+        "description": "Juicy and flavorful beef burgers, perfect for summer grilling.",
+        "ingredients": [
+            "ground beef",
+            "onion",
+            "garlic",
+            "salt",
+            "pepper",
+            "hamburger buns",
+            "lettuce",
+            "tomato",
+            "pickles",
+            "ketchup",
+            "mustard"
+        ],
+        "recipe": "1. In a large bowl, mix together ground beef, finely chopped onion, minced garlic, salt, and pepper. 2. Form the mixture into patties. 3. Preheat grill to medium-high heat. 4. Grill the patties for 3-4 minutes on each side, or until they reach your desired level of doneness. 5. Toast the hamburger buns on the grill. 6. Assemble the burgers by placing a lettuce leaf, tomato slice, and pickle slices on the bottom bun. 7. Add the cooked beef patty on top. 8. Add ketchup and mustard as desired. 9. Serve hot.",
+        "ratings": 4.9,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1547592180-85f173990554?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD26",
+        "name": "Mutton Burgers",
+        "description": "Juicy and flavorful beef burgers, perfect for summer grilling.",
+        "ingredients": [
+            "ground beef",
+            "onion",
+            "garlic",
+            "salt",
+            "pepper",
+            "hamburger buns",
+            "lettuce",
+            "tomato",
+            "pickles",
+            "ketchup",
+            "mustard"
+        ],
+        "recipe": "1. In a large bowl, mix together ground beef, finely chopped onion, minced garlic, salt, and pepper. 2. Form the mixture into patties. 3. Preheat grill to medium-high heat. 4. Grill the patties for 3-4 minutes on each side, or until they reach your desired level of doneness. 5. Toast the hamburger buns on the grill. 6. Assemble the burgers by placing a lettuce leaf, tomato slice, and pickle slices on the bottom bun. 7. Add the cooked beef patty on top. 8. Add ketchup and mustard as desired. 9. Serve hot.",
+        "ratings": 4.9,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1452967712862-0cca1839ff27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD27",
+        "name": "Grilled Chicken Sandwich",
+        "description": "A delicious sandwich featuring grilled chicken breast, avocado, and bacon.",
+        "ingredients": [
+            "chicken breast",
+            "salt",
+            "black pepper",
+            "garlic powder",
+            "lettuce",
+            "tomato",
+            "bacon",
+            "avocado",
+            "mayonnaise",
+            "hamburger bun"
+        ],
+        "recipe": "1. Preheat grill to medium-high heat. 2. Season chicken breast with salt, black pepper, and garlic powder. 3. Grill chicken for 6-8 minutes on each side, or until cooked through. 4. Cook bacon until crispy. 5. Slice avocado and tomato. 6. Toast hamburger bun on the grill. 7. Spread mayonnaise on the bun. 8. Assemble the sandwich by placing the lettuce, tomato, bacon, and grilled chicken breast on the bun. 9. Top with sliced avocado. 10. Serve hot.",
+        "ratings": 4.3,
+        "price": 9.99,
+        "photo": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD28",
+        "name": "Beef Sandwich",
+        "description": "A delicious sandwich featuring grilled chicken breast, avocado, and bacon.",
+        "ingredients": [
+            "chicken breast",
+            "salt",
+            "black pepper",
+            "garlic powder",
+            "lettuce",
+            "tomato",
+            "bacon",
+            "avocado",
+            "mayonnaise",
+            "hamburger bun"
+        ],
+        "recipe": "1. Preheat grill to medium-high heat. 2. Season chicken breast with salt, black pepper, and garlic powder. 3. Grill chicken for 6-8 minutes on each side, or until cooked through. 4. Cook bacon until crispy. 5. Slice avocado and tomato. 6. Toast hamburger bun on the grill. 7. Spread mayonnaise on the bun. 8. Assemble the sandwich by placing the lettuce, tomato, bacon, and grilled chicken breast on the bun. 9. Top with sliced avocado. 10. Serve hot.",
+        "ratings": 4.3,
+        "price": 9.99,
+        "photo": "https://images.unsplash.com/photo-1569153421157-7f8fc8a4badc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD29",
+        "name": "Mutton Sandwich",
+        "description": "A delicious sandwich featuring grilled chicken breast, avocado, and bacon.",
+        "ingredients": [
+            "chicken breast",
+            "salt",
+            "black pepper",
+            "garlic powder",
+            "lettuce",
+            "tomato",
+            "bacon",
+            "avocado",
+            "mayonnaise",
+            "hamburger bun"
+        ],
+        "recipe": "1. Preheat grill to medium-high heat. 2. Season chicken breast with salt, black pepper, and garlic powder. 3. Grill chicken for 6-8 minutes on each side, or until cooked through. 4. Cook bacon until crispy. 5. Slice avocado and tomato. 6. Toast hamburger bun on the grill. 7. Spread mayonnaise on the bun. 8. Assemble the sandwich by placing the lettuce, tomato, bacon, and grilled chicken breast on the bun. 9. Top with sliced avocado. 10. Serve hot.",
+        "ratings": 4.3,
+        "price": 9.99,
+        "photo": "https://images.unsplash.com/photo-1568600938676-773e3bfe677c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD30",
+        "name": "Shrimp Alfredo",
+        "description": "A classic Italian pasta dish featuring creamy alfredo sauce and succulent shrimp.",
+        "ingredients": [
+            "spaghetti",
+            "shrimp",
+            "butter",
+            "garlic",
+            "heavy cream",
+            "parmesan cheese",
+            "salt",
+            "black pepper"
+        ],
+        "recipe": "1. Cook spaghetti according to package instructions. 2. Heat butter in a pan over medium heat. 3. Add minced garlic and sauté for 1-2 minutes. 4. Add shrimp and cook until pink, about 3-4 minutes. 5. Remove shrimp from the pan and set aside. 6. Add heavy cream and parmesan cheese to the pan, whisking until the sauce is smooth. 7. Season with salt and black pepper to taste. 8. Add the cooked spaghetti and shrimp to the pan, tossing to coat with the sauce. 9. Serve hot.",
+        "ratings": 4.2,
+        "price": 16.99,
+        "photo": "https://images.unsplash.com/photo-1559753496-89b160628831?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

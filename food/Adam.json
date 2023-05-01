@@ -1,0 +1,96 @@
+[
+    {
+        "id": "FOOD13",
+        "name": "Beef Stroganoff",
+        "description": "A Russian dish made with sautéed beef and sour cream sauce.",
+        "ingredients": [
+            "beef",
+            "sour cream",
+            "mushrooms",
+            "onion"
+        ],
+        "recipe": "Sauté beef and onion until browned. Add mushrooms and continue cooking. Stir in sour cream and let simmer. Serve hot with rice or noodles.",
+        "ratings": 4.3,
+        "price": 19.99,
+        "photo": "https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD14",
+        "name": "Pad Thai",
+        "description": "A Thai stir-fried noodle dish made with shrimp, tofu, and vegetables.",
+        "ingredients": [
+            "rice noodles",
+            "shrimp",
+            "tofu",
+            "peanuts"
+        ],
+        "recipe": "Soak rice noodles in water. In a separate pan, stir-fry shrimp, tofu, and vegetables. Add soaked noodles to the pan and stir-fry until cooked. Serve hot with peanuts and lime wedges.",
+        "ratings": 4.8,
+        "price": 16.99,
+        "photo": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD15",
+        "name": "Pizza",
+        "description": "A classic Italian dish made with tomato sauce, cheese, and various toppings.",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "pepperoni"
+        ],
+        "recipe": "Roll out pizza dough and spread tomato sauce on top. Add cheese and desired toppings. Bake in a preheated oven until crust is crispy and cheese is melted.",
+        "ratings": 4.6,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD16",
+        "name": "Taco",
+        "description": "A Mexican dish consisting of a tortilla filled with meat, beans, and vegetables.",
+        "ingredients": [
+            "tortilla",
+            "ground beef",
+            "beans",
+            "lettuce"
+        ],
+        "recipe": "Cook ground beef and beans together. Warm tortilla in a separate pan. Add meat mixture and desired toppings to the tortilla. Serve hot.",
+        "ratings": 4.4,
+        "price": 15.99,
+        "photo": "https://images.unsplash.com/photo-1577303935007-0d306ee638cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Burger",
+        "description": "Ground meat patty in a bun",
+        "ingredients": [
+            "bun",
+            "ground beef patty",
+            "cheese",
+            "lettuce",
+            "tomato",
+            "onion",
+            "pickle"
+        ],
+        "recipe": "Grill or pan-cook the ground beef patty. Place in a bun and top with cheese, lettuce, tomato, onion, and pickles.",
+        "ratings": 4,
+        "id": "FOOD17",
+        "price": 8,
+        "photo": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Cheesecake",
+        "description": "Sweet dessert with a cream cheese topping",
+        "ingredients": [
+            "graham cracker crust",
+            "cream cheese",
+            "sugar",
+            "eggs",
+            "vanilla extract"
+        ],
+        "recipe": "Make a graham cracker crust, then blend cream cheese, sugar, eggs, and vanilla. Pour into crust and bake. Chill before serving.",
+        "ratings": 5,
+        "id": "FOOD18",
+        "price": 6,
+        "photo": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    }
+]

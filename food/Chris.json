@@ -1,0 +1,95 @@
+[
+    {
+        "id": "FOOD31",
+        "name": "Stroganoff",
+        "description": "A hearty and comforting dish featuring tender beef, mushrooms, and egg noodles.",
+        "ingredients": [
+            "beef sirloin",
+            "flour",
+            "salt",
+            "black pepper",
+            "butter",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "sour cream",
+            "egg noodles"
+        ],
+        "recipe": "1. Slice beef sirloin into thin strips. 2. In a bowl, combine flour, salt, and black pepper. 3. Dredge the beef strips in the flour mixture. 4. Heat butter in a large pan over medium heat. 5. Add sliced onion and cook until softened, about 3-4 minutes. 6. Add sliced mushrooms and cook until tender, about 5-6 minutes. 7. Remove the vegetables from the pan and set aside. 8. In the same pan, add the dredged beef strips and cook until browned on both sides. 9. Add beef broth and bring to a boil. 10. Reduce heat and simmer",
+        "ratings": 4.1,
+        "price": 16.99,
+        "photo": "https://plus.unsplash.com/premium_photo-1669261882016-45662de9dc11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD32",
+        "name": "Sushi",
+        "description": "A traditional Japanese dish consisting of vinegared rice and various ingredients, such as raw fish or vegetables.",
+        "ingredients": [
+            "sushi rice",
+            "raw fish or vegetables",
+            "nori",
+            "wasabi",
+            "soy sauce"
+        ],
+        "recipe": "1. Cook sushi rice according to package directions. 2. Cut raw fish or vegetables into bite-sized pieces. 3. Lay a sheet of nori on a bamboo mat. 4. Spread rice over nori, leaving a small border. 5. Add fish or vegetables on top of rice. 6. Roll up the mat tightly to form the sushi roll. 7. Cut into bite-sized pieces. 8. Serve with wasabi and soy sauce.",
+        "ratings": 4.7,
+        "price": 18.99,
+        "photo": "https://images.unsplash.com/photo-1461555806864-d8b528023e7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD33",
+        "name": "Biryani",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlyaXlhbml8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD34",
+        "name": "Chicken Biryani",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1630409351217-bc4fa6422075?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyaXlhbml8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD35",
+        "name": "Beef Biryani",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1541557637110-4b9cb29711f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD36",
+        "name": "Mutton Biryani",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1542197745-c70e10f66af8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

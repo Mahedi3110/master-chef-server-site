@@ -1,0 +1,86 @@
+[
+    {
+        "id": "FOOD37",
+        "name": "Kacchi Biryani",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1574653853117-0274131c2175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD38",
+        "name": "Dam Biryani",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1619568785920-a392f1765078?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD39",
+        "name": "Chicken Dam Biryani",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD40",
+        "name": "Mutton Dam Biryani",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://plus.unsplash.com/premium_photo-1671809039835-fd2073cb956a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD41",
+        "name": "Teheri",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjN8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD42",
+        "name": "Beef Teheri",
+        "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+        "ingredients": [
+            "Basmati rice",
+            "Meat or vegetables",
+            "Spices"
+        ],
+        "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+        "ratings": 4.5,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1600628421066-f6bda6a7b976?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "FOOD1",
+        "name": "Macaroni and Cheese",
+        "description": "A classic comfort food dish made with creamy cheese sauce and elbow macaroni.",
+        "ingredients": [
+            "macaroni",
+            "cheddar cheese",
+            "butter",
+            "milk"
+        ],
+        "recipe": "Boil macaroni in salted water. In a separate pan, melt butter, add flour and cook for a minute. Slowly whisk in milk, then add cheese and cooked macaroni. Serve hot.",
+        "ratings": 4.8,
+        "price": 12.99,
+        "photo": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD2",
+        "name": "Vegan Buddha Bowl",
+        "description": "A nutritious and colorful bowl filled with plant-based protein, vegetables, and grains.",
+        "ingredients": [
+            "quinoa",
+            "chickpeas",
+            "avocado",
+            "spinach"
+        ],
+        "recipe": "Cook quinoa and chickpeas separately. Assemble bowl with cooked quinoa, chickpeas, sliced avocado, and spinach. Drizzle with dressing of choice.",
+        "ratings": 4.4,
+        "price": 14.99,
+        "photo": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD3",
+        "name": "Smoked Brisket",
+        "description": "A tender and flavorful cut of beef, slow-smoked to perfection.",
+        "ingredients": [
+            "brisket",
+            "salt",
+            "pepper",
+            "smoking wood"
+        ],
+        "recipe": "Rub brisket with salt and pepper. Smoke brisket with wood of choice for several hours until tender. Slice and serve with barbecue sauce.",
+        "ratings": 4.9,
+        "price": 22.99,
+        "photo": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD4",
+        "name": "Chocolate Cake",
+        "description": "A rich and decadent cake made with high-quality chocolate and topped with frosting.",
+        "ingredients": [
+            "flour",
+            "sugar",
+            "butter",
+            "chocolate"
+        ],
+        "recipe": "Cream butter and sugar. Add melted chocolate and flour mixture. Bake in a preheated oven until done. Frost with your favorite frosting.",
+        "ratings": 4.7,
+        "price": 8.99,
+        "photo": "https://plus.unsplash.com/premium_photo-1663852706199-52e7cd98468e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD5",
+        "name": "Sushi Platter",
+        "description": "A delicious assortment of sushi rolls, sashimi, and nigiri.",
+        "ingredients": [
+            "rice",
+            "seaweed",
+            "fish",
+            "vegetables"
+        ],
+        "recipe": "Cook sushi rice and let cool. Assemble sushi rolls with seaweed, rice, fish, and vegetables. Arrange sushi on platter and serve with soy sauce and wasabi.",
+        "ratings": 4.6,
+        "price": 29.99,
+        "photo": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD6",
+        "name": "Grilled Octopus",
+        "description": "A flavorful and tender seafood dish, grilled to perfection.",
+        "ingredients": [
+            "octopus",
+            "olive oil",
+            "lemon",
+            "garlic"
+        ],
+        "recipe": "Clean and tenderize octopus. Marinate in olive oil, lemon, and garlic for several hours. Grill octopus until charred and tender. Serve with lemon wedges.",
+        "ratings": 4.5,
+        "price": 16.99,
+        "photo": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

@@ -1,0 +1,952 @@
+[
+    {
+        "_id": "CHEF1",
+        "_name": "Chef John",
+        "_photo": "https://images.unsplash.com/photo-1574164052277-b9ea797de8e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjJ8fGNoZWZ8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef John is a master of comfort food and classic dishes.",
+        "_experience": 10,
+        "_ratings": 4.5,
+        "_bestFood": [
+            {
+                "id": "FOOD49",
+                "name": "Mutton Akhni",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1542528180-a1208c5169a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE3fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD50",
+                "name": "Fish Sushi",
+                "description": "A Japanese dish of vinegar rice topped with seafood or vegetables",
+                "ingredients": [
+                    "Sushi rice",
+                    "Seafood or vegetables",
+                    "Nori seaweed"
+                ],
+                "recipe": "Cook the sushi rice, roll the rice and seafood/vegetables in Nori seaweed, and slice into bite-sized pieces",
+                "ratings": 4.8,
+                "price": 20.99,
+                "photo": "https://plus.unsplash.com/premium_photo-1668618296300-e301f8d2cef9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE1fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD51",
+                "name": "Lasagna",
+                "description": "An Italian dish of layered pasta, meat, cheese, and tomato sauce",
+                "ingredients": [
+                    "Lasagna noodles",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Ricotta cheese",
+                    "Mozzarella cheese"
+                ],
+                "recipe": "Cook the noodles, sauté the ground beef with tomato sauce, layer the noodles, meat sauce, and cheeses in a baking dish, and bake in the oven until bubbly",
+                "ratings": 4.6,
+                "price": 14.99,
+                "photo": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD52",
+                "name": "Chicken Lasagna",
+                "description": "An Italian dish of layered pasta, meat, cheese, and tomato sauce",
+                "ingredients": [
+                    "Lasagna noodles",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Ricotta cheese",
+                    "Mozzarella cheese"
+                ],
+                "recipe": "Cook the noodles, sauté the ground beef with tomato sauce, layer the noodles, meat sauce, and cheeses in a baking dish, and bake in the oven until bubbly",
+                "ratings": 4.6,
+                "price": 14.99,
+                "photo": "https://images.unsplash.com/photo-1590691105234-1501411df02e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE4fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD53",
+                "name": "Beef Lasagna",
+                "description": "An Italian dish of layered pasta, meat, cheese, and tomato sauce",
+                "ingredients": [
+                    "Lasagna noodles",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Ricotta cheese",
+                    "Mozzarella cheese"
+                ],
+                "recipe": "Cook the noodles, sauté the ground beef with tomato sauce, layer the noodles, meat sauce, and cheeses in a baking dish, and bake in the oven until bubbly",
+                "ratings": 4.6,
+                "price": 14.99,
+                "photo": "https://images.unsplash.com/photo-1576749872435-ff88a71c1ae2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIyfHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD54",
+                "name": "Mutton Lasagna",
+                "description": "An Italian dish of layered pasta, meat, cheese, and tomato sauce",
+                "ingredients": [
+                    "Lasagna noodles",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Ricotta cheese",
+                    "Mozzarella cheese"
+                ],
+                "recipe": "Cook the noodles, sauté the ground beef with tomato sauce, layer the noodles, meat sauce, and cheeses in a baking dish, and bake in the oven until bubbly",
+                "ratings": 4.6,
+                "price": 14.99,
+                "photo": "https://images.unsplash.com/photo-1581331474665-a0bbee7dfba9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI2fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "_id": "CHEF2",
+        "_name": "Chef Tom",
+        "_photo": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGNoZWZ8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef Sarah is a specialist in vegan cuisine and plant-based dishes.",
+        "_experience": 8,
+        "_ratings": 4.2,
+        "_bestFood": [
+            {
+                "id": "FOOD37",
+                "name": "Kacchi Biryani",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1574653853117-0274131c2175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD38",
+                "name": "Dam Biryani",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1619568785920-a392f1765078?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD39",
+                "name": "Chicken Dam Biryani",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD40",
+                "name": "Mutton Dam Biryani",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://plus.unsplash.com/premium_photo-1671809039835-fd2073cb956a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD41",
+                "name": "Teheri",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjN8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD42",
+                "name": "Beef Teheri",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1600628421066-f6bda6a7b976?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "_id": "CHEF3",
+        "_name": "Chef Michael",
+        "_photo": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGNoZWZ8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef Michael is a grill master and expert in barbecue.",
+        "_experience": 12,
+        "_ratings": 4.8,
+        "_bestFood": [
+            {
+                "id": "FOOD43",
+                "name": "Mutton Teheri",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD44",
+                "name": "Morog Polau",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1582391123232-6130296f1fcd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD45",
+                "name": "Kabli Polau",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1598511756348-640384c52ada?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD46",
+                "name": "Mutton Polau",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1565280654386-36c3ea205191?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA0fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD47",
+                "name": "Chicken Akhni",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1585903211716-c5633c87554d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE0fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD48",
+                "name": "Beef Akhni",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1561560743-70784246fef2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEzfHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "_id": "CHEF4",
+        "_name": "Chef Chris",
+        "_photo": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef Maria is a pastry chef and confectionery expert.",
+        "_experience": 9,
+        "_ratings": 4.4,
+        "_bestFood": [
+            {
+                "id": "FOOD31",
+                "name": "Stroganoff",
+                "description": "A hearty and comforting dish featuring tender beef, mushrooms, and egg noodles.",
+                "ingredients": [
+                    "beef sirloin",
+                    "flour",
+                    "salt",
+                    "black pepper",
+                    "butter",
+                    "onion",
+                    "mushrooms",
+                    "beef broth",
+                    "sour cream",
+                    "egg noodles"
+                ],
+                "recipe": "1. Slice beef sirloin into thin strips. 2. In a bowl, combine flour, salt, and black pepper. 3. Dredge the beef strips in the flour mixture. 4. Heat butter in a large pan over medium heat. 5. Add sliced onion and cook until softened, about 3-4 minutes. 6. Add sliced mushrooms and cook until tender, about 5-6 minutes. 7. Remove the vegetables from the pan and set aside. 8. In the same pan, add the dredged beef strips and cook until browned on both sides. 9. Add beef broth and bring to a boil. 10. Reduce heat and simmer",
+                "ratings": 4.1,
+                "price": 16.99,
+                "photo": "https://plus.unsplash.com/premium_photo-1669261882016-45662de9dc11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD32",
+                "name": "Sushi",
+                "description": "A traditional Japanese dish consisting of vinegared rice and various ingredients, such as raw fish or vegetables.",
+                "ingredients": [
+                    "sushi rice",
+                    "raw fish or vegetables",
+                    "nori",
+                    "wasabi",
+                    "soy sauce"
+                ],
+                "recipe": "1. Cook sushi rice according to package directions. 2. Cut raw fish or vegetables into bite-sized pieces. 3. Lay a sheet of nori on a bamboo mat. 4. Spread rice over nori, leaving a small border. 5. Add fish or vegetables on top of rice. 6. Roll up the mat tightly to form the sushi roll. 7. Cut into bite-sized pieces. 8. Serve with wasabi and soy sauce.",
+                "ratings": 4.7,
+                "price": 18.99,
+                "photo": "https://images.unsplash.com/photo-1461555806864-d8b528023e7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD33",
+                "name": "Biryani",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlyaXlhbml8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD34",
+                "name": "Chicken Biryani",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1630409351217-bc4fa6422075?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyaXlhbml8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD35",
+                "name": "Beef Biryani",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1541557637110-4b9cb29711f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD36",
+                "name": "Mutton Biryani",
+                "description": "A South Asian mixed rice dish with spices, meat, and/or vegetables",
+                "ingredients": [
+                    "Basmati rice",
+                    "Meat or vegetables",
+                    "Spices"
+                ],
+                "recipe": "Boil the rice, sauté the meat/vegetables with spices, layer the rice and meat/vegetables in a pot, and cook on low heat until the rice is fully cooked",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1542197745-c70e10f66af8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "_id": "CHEF5",
+        "_name": "Chef David",
+        "_photo": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef David is a sushi master and expert in Japanese cuisine.",
+        "_experience": 11,
+        "_ratings": 4.6,
+        "_bestFood": [
+            {
+                "id": "FOOD25",
+                "name": "Chicken Burgers",
+                "description": "Juicy and flavorful beef burgers, perfect for summer grilling.",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "salt",
+                    "pepper",
+                    "hamburger buns",
+                    "lettuce",
+                    "tomato",
+                    "pickles",
+                    "ketchup",
+                    "mustard"
+                ],
+                "recipe": "1. In a large bowl, mix together ground beef, finely chopped onion, minced garlic, salt, and pepper. 2. Form the mixture into patties. 3. Preheat grill to medium-high heat. 4. Grill the patties for 3-4 minutes on each side, or until they reach your desired level of doneness. 5. Toast the hamburger buns on the grill. 6. Assemble the burgers by placing a lettuce leaf, tomato slice, and pickle slices on the bottom bun. 7. Add the cooked beef patty on top. 8. Add ketchup and mustard as desired. 9. Serve hot.",
+                "ratings": 4.9,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1547592180-85f173990554?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD26",
+                "name": "Mutton Burgers",
+                "description": "Juicy and flavorful beef burgers, perfect for summer grilling.",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "salt",
+                    "pepper",
+                    "hamburger buns",
+                    "lettuce",
+                    "tomato",
+                    "pickles",
+                    "ketchup",
+                    "mustard"
+                ],
+                "recipe": "1. In a large bowl, mix together ground beef, finely chopped onion, minced garlic, salt, and pepper. 2. Form the mixture into patties. 3. Preheat grill to medium-high heat. 4. Grill the patties for 3-4 minutes on each side, or until they reach your desired level of doneness. 5. Toast the hamburger buns on the grill. 6. Assemble the burgers by placing a lettuce leaf, tomato slice, and pickle slices on the bottom bun. 7. Add the cooked beef patty on top. 8. Add ketchup and mustard as desired. 9. Serve hot.",
+                "ratings": 4.9,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1452967712862-0cca1839ff27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD27",
+                "name": "Grilled Chicken Sandwich",
+                "description": "A delicious sandwich featuring grilled chicken breast, avocado, and bacon.",
+                "ingredients": [
+                    "chicken breast",
+                    "salt",
+                    "black pepper",
+                    "garlic powder",
+                    "lettuce",
+                    "tomato",
+                    "bacon",
+                    "avocado",
+                    "mayonnaise",
+                    "hamburger bun"
+                ],
+                "recipe": "1. Preheat grill to medium-high heat. 2. Season chicken breast with salt, black pepper, and garlic powder. 3. Grill chicken for 6-8 minutes on each side, or until cooked through. 4. Cook bacon until crispy. 5. Slice avocado and tomato. 6. Toast hamburger bun on the grill. 7. Spread mayonnaise on the bun. 8. Assemble the sandwich by placing the lettuce, tomato, bacon, and grilled chicken breast on the bun. 9. Top with sliced avocado. 10. Serve hot.",
+                "ratings": 4.3,
+                "price": 9.99,
+                "photo": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD28",
+                "name": "Beef Sandwich",
+                "description": "A delicious sandwich featuring grilled chicken breast, avocado, and bacon.",
+                "ingredients": [
+                    "chicken breast",
+                    "salt",
+                    "black pepper",
+                    "garlic powder",
+                    "lettuce",
+                    "tomato",
+                    "bacon",
+                    "avocado",
+                    "mayonnaise",
+                    "hamburger bun"
+                ],
+                "recipe": "1. Preheat grill to medium-high heat. 2. Season chicken breast with salt, black pepper, and garlic powder. 3. Grill chicken for 6-8 minutes on each side, or until cooked through. 4. Cook bacon until crispy. 5. Slice avocado and tomato. 6. Toast hamburger bun on the grill. 7. Spread mayonnaise on the bun. 8. Assemble the sandwich by placing the lettuce, tomato, bacon, and grilled chicken breast on the bun. 9. Top with sliced avocado. 10. Serve hot.",
+                "ratings": 4.3,
+                "price": 9.99,
+                "photo": "https://images.unsplash.com/photo-1569153421157-7f8fc8a4badc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD29",
+                "name": "Mutton Sandwich",
+                "description": "A delicious sandwich featuring grilled chicken breast, avocado, and bacon.",
+                "ingredients": [
+                    "chicken breast",
+                    "salt",
+                    "black pepper",
+                    "garlic powder",
+                    "lettuce",
+                    "tomato",
+                    "bacon",
+                    "avocado",
+                    "mayonnaise",
+                    "hamburger bun"
+                ],
+                "recipe": "1. Preheat grill to medium-high heat. 2. Season chicken breast with salt, black pepper, and garlic powder. 3. Grill chicken for 6-8 minutes on each side, or until cooked through. 4. Cook bacon until crispy. 5. Slice avocado and tomato. 6. Toast hamburger bun on the grill. 7. Spread mayonnaise on the bun. 8. Assemble the sandwich by placing the lettuce, tomato, bacon, and grilled chicken breast on the bun. 9. Top with sliced avocado. 10. Serve hot.",
+                "ratings": 4.3,
+                "price": 9.99,
+                "photo": "https://images.unsplash.com/photo-1568600938676-773e3bfe677c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD30",
+                "name": "Shrimp Alfredo",
+                "description": "A classic Italian pasta dish featuring creamy alfredo sauce and succulent shrimp.",
+                "ingredients": [
+                    "spaghetti",
+                    "shrimp",
+                    "butter",
+                    "garlic",
+                    "heavy cream",
+                    "parmesan cheese",
+                    "salt",
+                    "black pepper"
+                ],
+                "recipe": "1. Cook spaghetti according to package instructions. 2. Heat butter in a pan over medium heat. 3. Add minced garlic and sauté for 1-2 minutes. 4. Add shrimp and cook until pink, about 3-4 minutes. 5. Remove shrimp from the pan and set aside. 6. Add heavy cream and parmesan cheese to the pan, whisking until the sauce is smooth. 7. Season with salt and black pepper to taste. 8. Add the cooked spaghetti and shrimp to the pan, tossing to coat with the sauce. 9. Serve hot.",
+                "ratings": 4.2,
+                "price": 16.99,
+                "photo": "https://images.unsplash.com/photo-1559753496-89b160628831?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "_id": "CHEF6",
+        "_name": "Chef Adam",
+        "_photo": "https://images.unsplash.com/photo-1641536618422-2cf0bbd10014?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef Emily is a health food specialist and expert in nutritious cuisine.",
+        "_experience": 7,
+        "_ratings": 4.0,
+        "_bestFood": [
+            {
+                "id": "FOOD13",
+                "name": "Beef Stroganoff",
+                "description": "A Russian dish made with sautéed beef and sour cream sauce.",
+                "ingredients": [
+                    "beef",
+                    "sour cream",
+                    "mushrooms",
+                    "onion"
+                ],
+                "recipe": "Sauté beef and onion until browned. Add mushrooms and continue cooking. Stir in sour cream and let simmer. Serve hot with rice or noodles.",
+                "ratings": 4.3,
+                "price": 19.99,
+                "photo": "https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD14",
+                "name": "Pad Thai",
+                "description": "A Thai stir-fried noodle dish made with shrimp, tofu, and vegetables.",
+                "ingredients": [
+                    "rice noodles",
+                    "shrimp",
+                    "tofu",
+                    "peanuts"
+                ],
+                "recipe": "Soak rice noodles in water. In a separate pan, stir-fry shrimp, tofu, and vegetables. Add soaked noodles to the pan and stir-fry until cooked. Serve hot with peanuts and lime wedges.",
+                "ratings": 4.8,
+                "price": 16.99,
+                "photo": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD15",
+                "name": "Pizza",
+                "description": "A classic Italian dish made with tomato sauce, cheese, and various toppings.",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "mozzarella cheese",
+                    "pepperoni"
+                ],
+                "recipe": "Roll out pizza dough and spread tomato sauce on top. Add cheese and desired toppings. Bake in a preheated oven until crust is crispy and cheese is melted.",
+                "ratings": 4.6,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD16",
+                "name": "Taco",
+                "description": "A Mexican dish consisting of a tortilla filled with meat, beans, and vegetables.",
+                "ingredients": [
+                    "tortilla",
+                    "ground beef",
+                    "beans",
+                    "lettuce"
+                ],
+                "recipe": "Cook ground beef and beans together. Warm tortilla in a separate pan. Add meat mixture and desired toppings to the tortilla. Serve hot.",
+                "ratings": 4.4,
+                "price": 15.99,
+                "photo": "https://images.unsplash.com/photo-1577303935007-0d306ee638cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "name": "Burger",
+                "description": "Ground meat patty in a bun",
+                "ingredients": [
+                    "bun",
+                    "ground beef patty",
+                    "cheese",
+                    "lettuce",
+                    "tomato",
+                    "onion",
+                    "pickle"
+                ],
+                "recipe": "Grill or pan-cook the ground beef patty. Place in a bun and top with cheese, lettuce, tomato, onion, and pickles.",
+                "ratings": 4,
+                "id": "FOOD17",
+                "price": 8,
+                "photo": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "name": "Cheesecake",
+                "description": "Sweet dessert with a cream cheese topping",
+                "ingredients": [
+                    "graham cracker crust",
+                    "cream cheese",
+                    "sugar",
+                    "eggs",
+                    "vanilla extract"
+                ],
+                "recipe": "Make a graham cracker crust, then blend cream cheese, sugar, eggs, and vanilla. Pour into crust and bake. Chill before serving.",
+                "ratings": 5,
+                "id": "FOOD18",
+                "price": 6,
+                "photo": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "_id": "CHEF7",
+        "_name": "Chef Peter",
+        "_photo": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef Peter is a seafood master and expert in Mediterranean cuisine.",
+        "_experience": 13,
+        "_ratings": 4.9,
+        "_bestFood": [
+            {
+                "id": "FOOD19",
+                "name": "Spaghetti Carbonara",
+                "description": "A classic pasta dish with creamy bacon and egg sauce.",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "garlic"
+                ],
+                "recipe": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook bacon until crispy. 3. Beat eggs and mix in grated parmesan cheese. 4. Add minced garlic to the pan with the bacon and cook for a minute. 5. Add cooked spaghetti to the pan with the bacon and garlic. 6. Turn off the heat and pour the egg and cheese mixture into the pan. 7. Stir until the sauce thickens and coats the pasta. 8. Serve with additional grated parmesan cheese.",
+                "ratings": 4.5,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD20",
+                "name": "Chicken Tikka",
+                "description": "A creamy and spicy Indian chicken dish.",
+                "ingredients": [
+                    "chicken breast",
+                    "yogurt",
+                    "tomato paste",
+                    "garam masala",
+                    "ginger",
+                    "garlic"
+                ],
+                "recipe": "1. Marinate chicken breast in yogurt, garam masala, ginger, and garlic for at least an hour. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions until translucent. 4. Add tomato paste and additional garam masala to the pan and cook for a minute. 5. Add the cooked chicken to the pan and stir to coat with the sauce. 6. Pour in heavy cream and simmer until the sauce thickens. 7. Serve with rice and naan bread.",
+                "ratings": 4.7,
+                "price": 14.99,
+                "photo": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD21",
+                "name": "Grilled Salmon",
+                "description": "A healthy and flavorful seafood dish, perfect for summer grilling.",
+                "ingredients": [
+                    "salmon fillets",
+                    "lemon",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "pepper"
+                ],
+                "recipe": "1. Preheat grill to medium-high heat. 2. Pat salmon fillets dry with a paper towel and season with salt and pepper. 3. In a small bowl, mix together olive oil, minced garlic, and the juice of one lemon. 4. Brush the mixture over the salmon fillets. 5. Place the salmon fillets on the grill skin-side down and grill for 5-6 minutes. 6. Carefully flip the salmon over and grill for an additional 2-3 minutes, or until the salmon is cooked through. 7. Serve with additional lemon wedges.",
+                "ratings": 4.6,
+                "price": 18.99,
+                "photo": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD22",
+                "name": "Caprese Salad",
+                "description": "A classic Italian salad featuring fresh mozzarella, ripe tomatoes, and fragrant basil.",
+                "ingredients": [
+                    "fresh mozzarella",
+                    "ripe tomatoes",
+                    "fresh basil",
+                    "balsamic vinegar",
+                    "olive oil",
+                    "salt",
+                    "pepper"
+                ],
+                "recipe": "1. Slice fresh mozzarella and ripe tomatoes into 1/4 inch thick slices. 2. Arrange the mozzarella and tomatoes on a plate, alternating between the two. 3. Drizzle balsamic vinegar and olive oil over the top of the salad. 4. Season with salt and pepper to taste. 5. Garnish with fresh basil leaves. 6. Serve chilled.",
+                "ratings": 4.4,
+                "price": 10.99,
+                "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD23",
+                "name": "Chicken Parmesan",
+                "description": "A classic Italian dish featuring breaded chicken cutlets, tomato sauce, and melted cheese.",
+                "ingredients": [
+                    "chicken breast",
+                    "breadcrumbs",
+                    "parmesan cheese",
+                    "tomato sauce",
+                    "mozzarella cheese",
+                    "olive oil"
+                ],
+                "recipe": "1. Preheat oven to 400°F. 2. Bread chicken cutlets by coating them in breadcrumbs mixed with grated parmesan cheese. 3. In a separate pan, heat up tomato sauce. 4. In a large skillet, heat up olive oil over medium heat. 5. Add breaded chicken cutlets and cook until golden brown on both sides. 6. Place the chicken cutlets in a baking dish and pour the heated tomato sauce over them. 7. Sprinkle shredded mozzarella cheese over the top. 8. Bake in the oven for 15-20 minutes, or until the cheese is melted and bubbly. 9. Serve with your favorite pasta.",
+                "ratings": 4.7,
+                "price": 14.99,
+                "photo": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD24",
+                "name": "Beef Burgers",
+                "description": "Juicy and flavorful beef burgers, perfect for summer grilling.",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "salt",
+                    "pepper",
+                    "hamburger buns",
+                    "lettuce",
+                    "tomato",
+                    "pickles",
+                    "ketchup",
+                    "mustard"
+                ],
+                "recipe": "1. In a large bowl, mix together ground beef, finely chopped onion, minced garlic, salt, and pepper. 2. Form the mixture into patties. 3. Preheat grill to medium-high heat. 4. Grill the patties for 3-4 minutes on each side, or until they reach your desired level of doneness. 5. Toast the hamburger buns on the grill. 6. Assemble the burgers by placing a lettuce leaf, tomato slice, and pickle slices on the bottom bun. 7. Add the cooked beef patty on top. 8. Add ketchup and mustard as desired. 9. Serve hot.",
+                "ratings": 4.9,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "_id": "CHEF8",
+        "_name": "Chef Mike",
+        "_photo": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef Lisa is a fusion cuisine specialist and expert in blending flavors.",
+        "_experience": 6,
+        "_ratings": 4.1,
+        "_bestFood": [
+            {
+                "id": "FOOD7",
+                "name": "Hamburger",
+                "description": "A classic American sandwich made with a beef patty, lettuce, tomato, and cheese.",
+                "ingredients": [
+                    "ground beef",
+                    "lettuce",
+                    "tomato",
+                    "cheddar cheese"
+                ],
+                "recipe": "Form ground beef into a patty and season with salt and pepper. Grill or fry patty until cooked through. Serve on a bun with lettuce, tomato, and cheese.",
+                "ratings": 4.3,
+                "price": 9.99,
+                "photo": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJpcml5YW5pfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD8",
+                "name": "Caesar Salad",
+                "description": "A refreshing and savory salad made with romaine lettuce, croutons, and Parmesan cheese.",
+                "ingredients": [
+                    "romaine lettuce",
+                    "croutons",
+                    "Parmesan cheese",
+                    "Caesar dressing"
+                ],
+                "recipe": "Toss romaine lettuce with croutons, Parmesan cheese, and Caesar dressing. Serve cold.",
+                "ratings": 4.2,
+                "price": 7.99,
+                "photo": "https://images.unsplash.com/photo-1606659894340-67897be51c63?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmlyaXlhbml8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD9",
+                "name": "Fish and Chips",
+                "description": "A British favorite consisting of battered fish and deep-fried potato slices.",
+                "ingredients": [
+                    "white fish",
+                    "potatoes",
+                    "flour",
+                    "beer"
+                ],
+                "recipe": "Cut potatoes into slices and fry until crispy. In a separate bowl, whisk together flour and beer to create batter. Dip fish in batter and fry until golden brown. Serve hot with fries.",
+                "ratings": 4.6,
+                "price": 14.99,
+                "photo": "https://images.unsplash.com/photo-1573476206843-5bdb55021849?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI4fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD10",
+                "name": "Pho",
+                "description": "A Vietnamese soup made with beef broth, rice noodles, and meat.",
+                "ingredients": [
+                    "beef broth",
+                    "rice noodles",
+                    "beef",
+                    "bean sprouts"
+                ],
+                "recipe": "Boil beef bones in water to create broth. Add sliced beef and rice noodles to the broth and let cook. Serve hot with bean sprouts and herbs.",
+                "ratings": 4.7,
+                "price": 11.99,
+                "photo": "https://images.unsplash.com/photo-1502038683567-85dc225345c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmlyaXlhbml8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD11",
+                "name": "Chicken Tikka Masala",
+                "description": "A popular Indian dish consisting of marinated chicken in a tomato-based sauce.",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "spices"
+                ],
+                "recipe": "Marinate chicken in yogurt and spices for several hours. Grill chicken and set aside. In a separate pan, cook tomatoes and spices to create sauce. Add chicken to the sauce and let simmer. Serve hot with rice.",
+                "ratings": 4.9,
+                "price": 18.99,
+                "photo": "https://images.unsplash.com/photo-1570894324068-130713003445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD12",
+                "name": "Fettuccine Alfredo",
+                "description": "A creamy Italian pasta dish made with Parmesan cheese and butter.",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "Parmesan cheese",
+                    "butter",
+                    "heavy cream"
+                ],
+                "recipe": "Cook fettuccine pasta in salted water. In a separate pan, melt butter and stir in heavy cream. Add Parmesan cheese and cooked pasta to the pan. Serve hot.",
+                "ratings": 4.5,
+                "price": 15.99,
+                "photo": "https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "_id": "CHEF9",
+        "_name": "Chef Alex",
+        "_photo": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "_description": "Chef Alex is a farm-to-table expert and expert in locally sourced ingredients.",
+        "_experience": 10,
+        "_ratings": 4.7,
+        "_bestFood": [
+            {
+                "id": "FOOD1",
+                "name": "Macaroni and Cheese",
+                "description": "A classic comfort food dish made with creamy cheese sauce and elbow macaroni.",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "milk"
+                ],
+                "recipe": "Boil macaroni in salted water. In a separate pan, melt butter, add flour and cook for a minute. Slowly whisk in milk, then add cheese and cooked macaroni. Serve hot.",
+                "ratings": 4.8,
+                "price": 12.99,
+                "photo": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD2",
+                "name": "Vegan Buddha Bowl",
+                "description": "A nutritious and colorful bowl filled with plant-based protein, vegetables, and grains.",
+                "ingredients": [
+                    "quinoa",
+                    "chickpeas",
+                    "avocado",
+                    "spinach"
+                ],
+                "recipe": "Cook quinoa and chickpeas separately. Assemble bowl with cooked quinoa, chickpeas, sliced avocado, and spinach. Drizzle with dressing of choice.",
+                "ratings": 4.4,
+                "price": 14.99,
+                "photo": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD3",
+                "name": "Smoked Brisket",
+                "description": "A tender and flavorful cut of beef, slow-smoked to perfection.",
+                "ingredients": [
+                    "brisket",
+                    "salt",
+                    "pepper",
+                    "smoking wood"
+                ],
+                "recipe": "Rub brisket with salt and pepper. Smoke brisket with wood of choice for several hours until tender. Slice and serve with barbecue sauce.",
+                "ratings": 4.9,
+                "price": 22.99,
+                "photo": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD4",
+                "name": "Chocolate Cake",
+                "description": "A rich and decadent cake made with high-quality chocolate and topped with frosting.",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "butter",
+                    "chocolate"
+                ],
+                "recipe": "Cream butter and sugar. Add melted chocolate and flour mixture. Bake in a preheated oven until done. Frost with your favorite frosting.",
+                "ratings": 4.7,
+                "price": 8.99,
+                "photo": "https://plus.unsplash.com/premium_photo-1663852706199-52e7cd98468e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zm9vZHxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD5",
+                "name": "Sushi Platter",
+                "description": "A delicious assortment of sushi rolls, sashimi, and nigiri.",
+                "ingredients": [
+                    "rice",
+                    "seaweed",
+                    "fish",
+                    "vegetables"
+                ],
+                "recipe": "Cook sushi rice and let cool. Assemble sushi rolls with seaweed, rice, fish, and vegetables. Arrange sushi on platter and serve with soy sauce and wasabi.",
+                "ratings": 4.6,
+                "price": 29.99,
+                "photo": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": "FOOD6",
+                "name": "Grilled Octopus",
+                "description": "A flavorful and tender seafood dish, grilled to perfection.",
+                "ingredients": [
+                    "octopus",
+                    "olive oil",
+                    "lemon",
+                    "garlic"
+                ],
+                "recipe": "Clean and tenderize octopus. Marinate in olive oil, lemon, and garlic for several hours. Grill octopus until charred and tender. Serve with lemon wedges.",
+                "ratings": 4.5,
+                "price": 16.99,
+                "photo": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    }
+]

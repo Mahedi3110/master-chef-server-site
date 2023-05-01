@@ -1,0 +1,92 @@
+[
+    {
+        "id": "FOOD7",
+        "name": "Hamburger",
+        "description": "A classic American sandwich made with a beef patty, lettuce, tomato, and cheese.",
+        "ingredients": [
+            "ground beef",
+            "lettuce",
+            "tomato",
+            "cheddar cheese"
+        ],
+        "recipe": "Form ground beef into a patty and season with salt and pepper. Grill or fry patty until cooked through. Serve on a bun with lettuce, tomato, and cheese.",
+        "ratings": 4.3,
+        "price": 9.99,
+        "photo": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJpcml5YW5pfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD8",
+        "name": "Caesar Salad",
+        "description": "A refreshing and savory salad made with romaine lettuce, croutons, and Parmesan cheese.",
+        "ingredients": [
+            "romaine lettuce",
+            "croutons",
+            "Parmesan cheese",
+            "Caesar dressing"
+        ],
+        "recipe": "Toss romaine lettuce with croutons, Parmesan cheese, and Caesar dressing. Serve cold.",
+        "ratings": 4.2,
+        "price": 7.99,
+        "photo": "https://images.unsplash.com/photo-1606659894340-67897be51c63?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmlyaXlhbml8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD9",
+        "name": "Fish and Chips",
+        "description": "A British favorite consisting of battered fish and deep-fried potato slices.",
+        "ingredients": [
+            "white fish",
+            "potatoes",
+            "flour",
+            "beer"
+        ],
+        "recipe": "Cut potatoes into slices and fry until crispy. In a separate bowl, whisk together flour and beer to create batter. Dip fish in batter and fry until golden brown. Serve hot with fries.",
+        "ratings": 4.6,
+        "price": 14.99,
+        "photo": "https://images.unsplash.com/photo-1573476206843-5bdb55021849?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI4fHxkaXNofGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD10",
+        "name": "Pho",
+        "description": "A Vietnamese soup made with beef broth, rice noodles, and meat.",
+        "ingredients": [
+            "beef broth",
+            "rice noodles",
+            "beef",
+            "bean sprouts"
+        ],
+        "recipe": "Boil beef bones in water to create broth. Add sliced beef and rice noodles to the broth and let cook. Serve hot with bean sprouts and herbs.",
+        "ratings": 4.7,
+        "price": 11.99,
+        "photo": "https://images.unsplash.com/photo-1502038683567-85dc225345c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmlyaXlhbml8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD11",
+        "name": "Chicken Tikka Masala",
+        "description": "A popular Indian dish consisting of marinated chicken in a tomato-based sauce.",
+        "ingredients": [
+            "chicken",
+            "yogurt",
+            "tomatoes",
+            "spices"
+        ],
+        "recipe": "Marinate chicken in yogurt and spices for several hours. Grill chicken and set aside. In a separate pan, cook tomatoes and spices to create sauce. Add chicken to the sauce and let simmer. Serve hot with rice.",
+        "ratings": 4.9,
+        "price": 18.99,
+        "photo": "https://images.unsplash.com/photo-1570894324068-130713003445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGRpc2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "FOOD12",
+        "name": "Fettuccine Alfredo",
+        "description": "A creamy Italian pasta dish made with Parmesan cheese and butter.",
+        "ingredients": [
+            "fettuccine pasta",
+            "Parmesan cheese",
+            "butter",
+            "heavy cream"
+        ],
+        "recipe": "Cook fettuccine pasta in salted water. In a separate pan, melt butter and stir in heavy cream. Add Parmesan cheese and cooked pasta to the pan. Serve hot.",
+        "ratings": 4.5,
+        "price": 15.99,
+        "photo": "https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGZvb2R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]
