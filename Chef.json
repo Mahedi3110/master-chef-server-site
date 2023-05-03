@@ -5,7 +5,7 @@
         "_photo": "https://images.unsplash.com/photo-1574164052277-b9ea797de8e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjJ8fGNoZWZ8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef John is a master of comfort food and classic dishes.",
         "_experience": 10,
-        "_ratings": 4.5,
+        "_likes": 4550,
         "_bestFood": [
             {
                 "id": "FOOD49",
@@ -107,7 +107,7 @@
         "_photo": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGNoZWZ8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef Sarah is a specialist in vegan cuisine and plant-based dishes.",
         "_experience": 8,
-        "_ratings": 4.2,
+        "_likes": 3255,
         "_bestFood": [
             {
                 "id": "FOOD37",
@@ -201,7 +201,7 @@
         "_photo": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGNoZWZ8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef Michael is a grill master and expert in barbecue.",
         "_experience": 12,
-        "_ratings": 4.8,
+        "_likes": 5381,
         "_bestFood": [
             {
                 "id": "FOOD43",
@@ -295,7 +295,7 @@
         "_photo": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef Maria is a pastry chef and confectionery expert.",
         "_experience": 9,
-        "_ratings": 4.4,
+        "_likes": 5150,
         "_bestFood": [
             {
                 "id": "FOOD31",
@@ -398,7 +398,7 @@
         "_photo": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef David is a sushi master and expert in Japanese cuisine.",
         "_experience": 11,
-        "_ratings": 4.6,
+        "_likes": 4897,
         "_bestFood": [
             {
                 "id": "FOOD25",
@@ -534,7 +534,7 @@
         "_photo": "https://images.unsplash.com/photo-1611787111706-6869a8c478da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGNoZWZ8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef Emily is a health food specialist and expert in nutritious cuisine.",
         "_experience": 7,
-        "_ratings": 4.0,
+        "_likes": 6150,
         "_bestFood": [
             {
                 "id": "FOOD13",
@@ -638,7 +638,7 @@
         "_photo": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef Peter is a seafood master and expert in Mediterranean cuisine.",
         "_experience": 13,
-        "_ratings": 4.9,
+        "_likes": 5936,
         "_bestFood": [
             {
                 "id": "FOOD19",
@@ -755,7 +755,7 @@
         "_photo": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef Lisa is a fusion cuisine specialist and expert in blending flavors.",
         "_experience": 6,
-        "_ratings": 4.1,
+        "_likes": 4927,
         "_bestFood": [
             {
                 "id": "FOOD7",
@@ -855,7 +855,7 @@
         "_photo": "https://images.unsplash.com/photo-1559575003-fb4ee38a747d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZ8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "_description": "Chef Alex is a farm-to-table expert and expert in locally sourced ingredients.",
         "_experience": 10,
-        "_ratings": 4.7,
+        "_likes": 5284,
         "_bestFood": [
             {
                 "id": "FOOD1",
